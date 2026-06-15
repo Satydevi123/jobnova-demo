@@ -1,0 +1,6 @@
+livekit-agents
+livekit-plugins-openai
+python-dotenv
+requests
+beautifulsoup4
+playwright
